@@ -1,0 +1,6 @@
+export const GOOGLE_CLIENT_ID =
+  process.env.GOOGLE_CLIENT_ID || 'GOOGLE_CLIENT_ID';
+export const FACEBOOK_CLIENT_ID =
+  process.env.FACEBOOK_CLIENT_ID || 'FACEBOOK_CLIENT_ID';
+export const GOOGLE_MAP_CLIENT_ID =
+  process.env.GOOGLE_MAP_CLIENT_ID || 'GOOGLE_MAP_CLIENT_ID';
